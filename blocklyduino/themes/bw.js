@@ -97,7 +97,12 @@ Blockly.Themes.blackWhite.defaultBlockStyles = {
         "colourPrimary": "#000000",
         "colourSecondary": "#000000",
         "colourTertiary": "#000000"
-    }
+    },
+    "llc_blocks": {
+        "colourPrimary": "#000000",
+        "colourSecondary": "#000000",
+        "colourTertiary": "#000000"
+    },
 };
 
 Blockly.Themes.blackWhite.categoryStyles = {

@@ -128,3 +128,14 @@ Blockly.Msg.RELAY_MOSFET_TEXT = "MOSFET transistor";
 Blockly.Msg.RELAY_MOSFET_INPUT = "on pin#";
 Blockly.Msg.RELAY_MOSFET_TOOLTIP = "the MOSFET transistor is a remote switch, a switch in a power circuit that is switched by a digital signal";
 Blockly.Msg.RELAY_MOSFET_HELPURL = "http://sin.lyceeleyguescouffignal.fr/irf520-mosfet-driver-module";
+
+//LLC
+//text in blocks
+//MOTOR_CONTROL
+Blockly.Msg.MOTOR_CONTRL_TEXT= "Motor Controller";
+Blockly.Msg.MOTOR_CONTRL_SPEED = "speed";
+Blockly.Msg.MOTOR_CONTRL_DIRECTION = "direction";
+Blockly.Msg.MOTOR_CONTRL_TOOLTIP = "the motor control can set the speed and direction of the car";
+//LINE_FOLLOW_CONTROLLER
+Blockly.Msg.LINE_FOLLOW_CONTROLLER_TEXT = "Line Follow";
+Blockly.Msg.LINE_FOLLOW_CONTROLLER_TOOLTIP = "enable/disable the line follower";

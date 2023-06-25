@@ -26,6 +26,7 @@ jsonToolbox["contents"][9] = toolbox_ds18b20["contents"][0];
 jsonToolbox["contents"][10] = toolbox_grove["contents"][0];
 jsonToolbox["contents"][11] = toolbox_relay["contents"][0];
 jsonToolbox["contents"][12] = toolbox_servo["contents"][0];
+jsonToolbox["contents"][13] = toolbox_llc["contents"][0];
 
 /**
  * Build the toolbox using toolbox definition in json files

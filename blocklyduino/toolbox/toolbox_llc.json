@@ -1,9 +1,9 @@
-var toolbox_relay = {
+var toolbox_llc = {
    "kind": "categoryToolbox",
    "contents": [{
 	  "kind": "category",
-	  "name": "%{BKY_CAT_RELAY}",
-		"toolboxitemid": "RELAY",
+	  "name": "%{BKY_CAT_LLC}",
+		"toolboxitemid": "LLC",
 		"levels": "1,2,3",
 		"level": "1",
 	  "categorystyle": "relay_category",
@@ -12,7 +12,7 @@ var toolbox_relay = {
 		},
 	  "contents": [{
 		 "kind": "block",
-		 "type": "RELAY_LOGICAL",
+		 "type": "MOTOR_CONTROL",
 		 }, {
 		"kind": "block",
 		"type": "LINE_FOLLOW_CONTROLLER"
